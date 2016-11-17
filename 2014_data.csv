@@ -1,0 +1,698 @@
+,age,assists,club,goals,handle,id,matches,minutes,minutes_per_goal,p_name,position,transfer_fee_pounds,transfer_status
+0,25,4,Arsenal FC,6,alexis-sanchez,40433,11,909,152,Alexis Sánchez,Left Wing,£25.50m,in
+1,19,0,Arsenal FC,1,calum-chambers,215118,6,540,540,Calum Chambers,Right-Back,£1.70m,in
+2,23,0,Arsenal FC,1,danny-welbeck,67063,6,540,540,Danny Welbeck,Centre-Forward,£14.45m,in
+3,28,0,Arsenal FC,1,mathieu-debuchy,27306,6,540,540,Mathieu Debuchy,Right-Back,£8.50m,in
+6,22,4,Arsenal FC,2,wellington-silva,121990,22,1.210,605,Wellington Silva,Right Wing,£1.28m,in
+7,21,0,Arsenal FC,0,semi-ajayi,251912,0,0,0,Semi Ajayi,Centre-Back,-,in
+8,19,1,Arsenal FC,0,hector-bellerin,191217,11,990,0,Héctor Bellerín,Right-Back,£425k,in
+9,22,1,Arsenal FC,0,yaya-sanogo,127194,11,990,0,Yaya Sanogo,Centre-Forward,£1.28m,in
+10,19,1,Arsenal FC,3,chuba-akpom,197642,2,180,60,Chuba Akpom,Centre-Forward,£850k,in
+11,27,0,Arsenal FC,0,johan-djourou,34561,6,540,0,Johan Djourou,Centre-Back,£2.55m,in
+12,21,4,Arsenal FC,2,wellington-silva,121990,22,1.210,605,Wellington Silva,Right Wing,£340k,in
+13,22,1,Arsenal FC,3,joel-campbell,131248,6,286,95,Joel Campbell,Left Wing,£4.25m,in
+14,23,0,Arsenal FC,0,francis-coquelin,74869,9,658,0,Francis Coquelin,Defensive Midfield,£2.55m,in
+15,28,0,Arsenal FC,0,thomas-vermaelen,15904,2,180,0,Thomas Vermaelen,Centre-Back,£11.90m,out
+16,27,0,Arsenal FC,0,johan-djourou,34561,6,540,0,Johan Djourou,Centre-Back,£2.55m,out
+17,21,0,Arsenal FC,1,ignasi-miquel,70245,12,1.078,1.078,Ignasi Miquel,Centre-Back,£340k,out
+18,21,2,Arsenal FC,1,thomas-eisfeld,86643,10,847,847,Thomas Eisfeld,Attacking Midfield,£255k,out
+20,31,1,Arsenal FC,0,bacary-sagna,26764,4,348,0,Bacary Sagna,Right-Back,£10.20m,out
+21,26,1,Arsenal FC,1,nicklas-bendtner,34557,6,235,235,Nicklas Bendtner,Centre-Forward,£3.40m,out
+22,21,4,Arsenal FC,2,wellington-silva,121990,22,1.210,605,Wellington Silva,Right Wing,£340k,out
+23,22,0,Arsenal FC,0,carl-jenkinson,126321,1,90,0,Carl Jenkinson,Right-Back,£5.10m,out
+24,21,0,Arsenal FC,0,ryo-miyaichi,129688,7,292,0,Ryo Miyaichi,Left Wing,£1.70m,out
+25,19,1,Arsenal FC,1,kristoffer-olsson,193592,11,436,436,Kristoffer Olsson,Central Midfield,-,out
+26,28,2,Arsenal FC,1,chu-young-park,30982,10,413,413,Chu-Young Park,Centre-Forward,£850k,out
+28,31,2,Arsenal FC,0,kim-kallstrom,3730,13,1.155,0,Kim Källström,Defensive Midfield,£2.13m,out
+29,28,0,Aston Villa,1,carlos-sanchez,51226,10,565,565,Carlos Sánchez,Defensive Midfield,£3.40m,in
+30,26,1,Aston Villa,0,aly-cissokho,57515,12,918,0,Aly Cissokho,Left-Back,£4.25m,in
+31,29,0,Aston Villa,0,kieran-richardson,3548,2,109,0,Kieran Richardson,Left-Back,£2.13m,in
+32,25,0,Aston Villa,0,tom-cleverley,73484,8,335,0,Tom Cleverley,Central Midfield,£9.35m,in
+33,29,0,Aston Villa,0,philippe-senderos,4277,2,165,0,Philippe Senderos,Centre-Back,£2.13m,in
+34,32,6,Aston Villa,2,joe-cole,3876,22,1.395,698,Joe Cole,Attacking Midfield,£2.13m,in
+35,25,0,Aston Villa,0,joe-bennett,90964,5,450,0,Joe Bennett,Left-Back,£1.28m,in
+36,22,0,Aston Villa,1,gary-gardner,110861,10,602,602,Gary Gardner,Central Midfield,£850k,in
+37,20,1,Aston Villa,1,janoi-donacien,197791,14,1.244,1.244,Janoi Donacien,Centre-Back,-,in
+38,20,0,Aston Villa,12,michael-drennan,61529,37,2.822,235,Michael Drennan,Centre-Forward,-,in
+39,31,0,Aston Villa,1,darren-bent,13239,13,505,505,Darren Bent,Centre-Forward,£2.13m,in
+40,21,0,Aston Villa,0,graham-burke,177892,3,110,0,Graham Burke,Secondary Striker,-,in
+42,24,3,Aston Villa,0,enda-stevens,85706,15,1.307,0,Enda Stevens,Left-Back,£425k,in
+43,20,0,Aston Villa,3,callum-robinson,183299,15,1.256,419,Callum Robinson,Left Wing,£213k,in
+44,19,0,Aston Villa,3,callum-robinson,183299,15,1.256,419,Callum Robinson,Left Wing,£213k,in
+45,29,1,Aston Villa,3,karim-el-ahmadi,25523,11,990,330,Karim El Ahmadi,Central Midfield,£2.13m,out
+46,22,5,Aston Villa,1,jordan-bowery,94655,13,645,645,Jordan Bowery,Centre-Forward,£850k,out
+47,21,2,Aston Villa,1,samir-carruthers,146488,16,1.050,1.050,Samir Carruthers,Central Midfield,£213k,out
+48,24,0,Aston Villa,0,joe-bennett,90964,5,450,0,Joe Bennett,Left-Back,£1.28m,out
+49,19,0,Aston Villa,3,callum-robinson,183299,15,1.256,419,Callum Robinson,Left Wing,£213k,out
+50,23,0,Aston Villa,1,nathan-delfouneso,62642,14,908,908,Nathan Delfouneso,Centre-Forward,£1.28m,out
+51,24,3,Aston Villa,0,enda-stevens,85706,15,1.307,0,Enda Stevens,Left-Back,£425k,out
+52,23,0,Aston Villa,0,yacouba-sylla,160080,7,547,0,Yacouba Sylla,Defensive Midfield,£1.70m,out
+53,20,1,Aston Villa,1,janoi-donacien,197791,14,1.244,1.244,Janoi Donacien,Centre-Back,-,out
+54,24,0,Aston Villa,0,marc-albrighton,61560,8,537,0,Marc Albrighton,Left Midfield,£2.13m,out
+55,20,0,Aston Villa,12,michael-drennan,61529,37,2.822,235,Michael Drennan,Centre-Forward,-,out
+56,23,2,Aston Villa,0,antonio-luna,126516,9,810,0,Antonio Luna,Left-Back,£1.70m,out
+57,24,0,Aston Villa,0,aleksandar-tonev,87282,6,335,0,Aleksandar Tonev,Left Wing,£1.70m,out
+58,22,0,Aston Villa,1,gary-gardner,110861,10,602,602,Gary Gardner,Central Midfield,£850k,out
+59,25,0,Aston Villa,0,chris-herd,61572,5,396,0,Chris Herd,Defensive Midfield,£850k,out
+62,21,3,Aston Villa,1,daniel-johnson,169092,15,1.017,1.017,Daniel Johnson,Central Midfield,-,out
+63,23,2,Aston Villa,3,nicklas-helenius,102132,15,1.057,352,Nicklas Helenius,Centre-Forward,£1.28m,out
+64,25,0,Aston Villa,0,tom-cleverley,73484,8,335,0,Tom Cleverley,Central Midfield,£7.65m,out
+65,26,2,Aston Villa,9,scott-sinclair,31552,11,844,94,Scott Sinclair,Left Wing,£2.55m,out
+66,28,0,Burnley FC,0,george-boyd,45623,10,741,0,George Boyd,Right Midfield,£1.28m,in
+67,25,0,Burnley FC,5,lukas-jutkiewicz,33507,11,736,147,Lukas Jutkiewicz,Centre-Forward,£680k,in
+68,28,0,Burnley FC,0,michael-kightly,25366,3,94,0,Michael Kightly,Left Wing,£2.30m,in
+69,28,0,Burnley FC,0,stephen-ward,34691,10,847,0,Stephen Ward,Left-Back,£1.70m,in
+70,23,1,Burnley FC,4,marvin-sordell,120599,14,1.108,277,Marvin Sordell,Centre-Forward,£1.53m,in
+72,32,5,Burnley FC,4,matthew-taylor,9218,14,1.229,307,Matthew Taylor,Left Midfield,£1.28m,in
+73,33,12,Burnley FC,8,steven-reid,7330,192,13.561,1.695,Steven Reid,Right-Back,£850k,in
+74,19,1,Burnley FC,0,nathaniel-chalobah,128900,3,42,0,Nathaniel Chalobah,Defensive Midfield,£3.40m,in
+75,21,0,Burnley FC,1,michael-keane,118534,11,990,990,Michael Keane,Centre-Back,£425k,in
+76,25,1,Burnley FC,1,danny-lafferty,85928,11,886,886,Danny Lafferty,Left-Back,£425k,in
+77,21,0,Burnley FC,0,tom-anderson,128828,10,813,0,Tom Anderson,Centre-Back,-,in
+78,21,1,Burnley FC,0,steven-hewitt,197660,9,338,0,Steven Hewitt,Central Midfield,£213k,in
+79,20,0,Burnley FC,0,jadan-hall,173582,8,530,0,Jadan Hall,Left Wing,-,in
+80,23,1,Burnley FC,1,luke-oneill,93321,10,444,444,Luke O'Neill,Right-Back,£213k,in
+82,18,3,Burnley FC,20,callum-richardson,400531,16,,1.440,Callum Richardson,Centre-Back,-,in
+83,21,0,Burnley FC,0,tom-anderson,128828,10,813,0,Tom Anderson,Centre-Back,-,out
+85,24,2,Burnley FC,3,junior-stanislas,87672,6,500,167,Junior Stanislas,Left Wing,£850k,out
+86,25,0,Burnley FC,1,keith-treacy,57064,14,776,776,Keith Treacy,Left Midfield,£595k,out
+87,20,0,Burnley FC,1,luke-gallagher,183159,28,2.520,2.520,Luke Gallagher,Central Midfield,-,out
+88,32,7,Burnley FC,10,brian-stock,37599,156,11.170,1.117,Brian Stock,Central Midfield,£213k,out
+89,24,0,Burnley FC,1,joseph-mills,81876,4,200,200,Joseph Mills,Left-Back,£298k,out
+90,32,0,Burnley FC,0,chris-baird,4115,5,198,0,Chris Baird,Defensive Midfield,£595k,out
+91,19,3,Burnley FC,0,kyle-brownhill,210987,13,888,0,Kyle Brownhill,Left-Back,-,out
+92,20,0,Burnley FC,0,jadan-hall,173582,8,530,0,Jadan Hall,Left Wing,-,out
+94,27,1,Burnley FC,1,david-edgar,44910,36,3.149,3.149,David Edgar,Centre-Back,£680k,out
+95,21,3,Burnley FC,3,micah-evans,121383,27,1.543,514,Micah Evans,Centre-Forward,-,out
+96,22,1,Burnley FC,1,luke-oneill,93321,10,444,444,Luke O'Neill,Right-Back,£213k,out
+97,20,0,Burnley FC,1,archie-love,195261,5,261,261,Archie Love,Central Midfield,-,out
+98,25,3,Chelsea FC,9,diego-costa,44779,11,967,107,Diego Costa,Centre-Forward,£29.75m,in
+99,27,1,Chelsea FC,0,cesc-fabregas,8806,4,87,0,Cesc Fàbregas,Central Midfield,£42.50m,in
+100,28,1,Chelsea FC,0,filipe-luis,21725,11,990,0,Filipe Luís,Left-Back,£12.75m,in
+101,27,1,Chelsea FC,0,loic-remy,45121,11,990,0,Loïc Rémy,Centre-Forward,£10.20m,in
+102,19,0,Chelsea FC,0,mario-pasalic,205938,2,91,0,Mario Pasalic,Central Midfield,£2.55m,in
+103,36,4,Chelsea FC,10,didier-drogba,3924,22,1.650,165,Didier Drogba,Centre-Forward,£1.91m,in
+104,20,0,Chelsea FC,0,nathan-ake,177476,2,13,0,Nathan Aké,Centre-Back,£1.28m,in
+105,24,1,Chelsea FC,2,victor-moses,59866,10,490,245,Victor Moses,Right Wing,£6.38m,in
+106,20,1,Chelsea FC,0,nathaniel-chalobah,128900,3,42,0,Nathaniel Chalobah,Defensive Midfield,£3.40m,in
+107,19,0,Chelsea FC,5,lewis-baker,198589,12,1.067,213,Lewis Baker,Central Midfield,£213k,in
+108,23,0,Chelsea FC,2,christian-atsu,186997,9,306,153,Christian Atsu,Right Wing,£4.25m,in
+109,21,0,Chelsea FC,2,todd-kane,154287,9,306,153,Todd Kane,Right-Back,£638k,in
+110,18,0,Chelsea FC,0,islam-feruz,130427,4,88,0,Islam Feruz,Centre-Forward,£595k,in
+111,21,0,Chelsea FC,0,kenneth-omeruo,131708,8,720,0,Kenneth Omeruo,Centre-Back,£850k,in
+112,21,0,Chelsea FC,0,patrick-bamford,183334,4,31,0,Patrick Bamford,Centre-Forward,£2.13m,in
+113,20,0,Chelsea FC,5,lewis-baker,198589,12,1.067,213,Lewis Baker,Central Midfield,£425k,in
+115,19,0,Chelsea FC,0,cristian-cuevas,186863,6,540,0,Cristian Cuevas,Left-Back,£1.28m,in
+116,23,0,Chelsea FC,2,patrick-van-aanholt,52119,10,793,397,Patrick van Aanholt,Left-Back,£2.98m,in
+117,22,0,Chelsea FC,0,oriol-romeu,66100,11,912,0,Oriol Romeu,Defensive Midfield,£5.95m,in
+118,20,1,Chelsea FC,0,wallace-oliveira,181779,6,159,0,Wallace Oliveira,Right-Back,£5.10m,in
+119,23,1,Chelsea FC,0,ulises-davila,108820,6,141,0,Ulises Dávila,Attacking Midfield,£1.28m,in
+120,23,3,Chelsea FC,2,gael-kakuta,74297,24,1.494,747,Gaël Kakuta,Left Wing,£2.55m,in
+121,25,0,Chelsea FC,0,marko-marin,35251,2,141,0,Marko Marin,Attacking Midfield,£4.25m,in
+122,20,0,Chelsea FC,2,lucas-piazon,176485,7,580,290,Lucas Piazón,Left Wing,£5.95m,in
+123,22,0,Chelsea FC,2,christian-atsu,186997,9,306,153,Christian Atsu,Right Wing,£5.10m,in
+124,19,0,Chelsea FC,0,kurt-zouma,157509,2,106,0,Kurt Zouma,Centre-Back,£8.50m,in
+126,21,1,Chelsea FC,3,thorgan-hazard,102226,7,385,128,Thorgan Hazard,Attacking Midfield,£8.50m,in
+127,18,0,Chelsea FC,2,stipe-perica,245072,9,353,177,Stipe Perica,Centre-Forward,£850k,in
+129,27,0,Chelsea FC,0,david-luiz,46741,7,630,0,David Luiz,Centre-Back,£22.10m,out
+130,21,3,Chelsea FC,7,romelu-lukaku,96341,10,837,120,Romelu Lukaku,Centre-Forward,£21.25m,out
+131,29,3,Chelsea FC,14,demba-ba,40205,18,1.572,112,Demba Ba,Centre-Forward,£9.35m,out
+132,23,0,Chelsea FC,2,patrick-van-aanholt,52119,10,793,397,Patrick van Aanholt,Left-Back,£2.98m,out
+133,21,1,Chelsea FC,3,thorgan-hazard,102226,7,385,128,Thorgan Hazard,Attacking Midfield,£8.50m,out
+134,21,1,Chelsea FC,1,george-saville,141573,7,367,367,George Saville,Central Midfield,-,out
+135,21,0,Chelsea FC,0,marco-van-ginkel,147034,1,90,0,Marco van Ginkel,Central Midfield,£7.65m,out
+136,20,0,Chelsea FC,2,lucas-piazon,176485,7,580,290,Lucas Piazón,Left Wing,£5.95m,out
+137,22,0,Chelsea FC,0,oriol-romeu,66100,11,912,0,Oriol Romeu,Defensive Midfield,£5.95m,out
+138,21,0,Chelsea FC,1,tomas-kalas,148657,10,891,891,Tomás Kalas,Centre-Back,£5.10m,out
+140,21,0,Chelsea FC,1,milan-lalkovic,91887,12,465,465,Milan Lalkovic,Left Wing,£213k,out
+141,20,0,Chelsea FC,0,kenneth-omeruo,131708,8,720,0,Kenneth Omeruo,Centre-Back,£850k,out
+142,21,1,Chelsea FC,1,jhon-pirez,177533,39,1.142,1.142,Jhon Pírez,Centre-Forward,-,out
+143,30,2,Chelsea FC,2,fernando-torres,7767,9,287,144,Fernando Torres,Centre-Forward,£10.20m,out
+144,24,1,Chelsea FC,0,ryan-bertrand,40611,6,528,0,Ryan Bertrand,Left-Back,£5.10m,out
+145,23,1,Chelsea FC,0,ulises-davila,108820,6,141,0,Ulises Dávila,Attacking Midfield,£1.28m,out
+146,33,1,Chelsea FC,3,samuel-etoo,4257,8,640,213,Samuel Eto'o,Centre-Forward,£7.65m,out
+147,20,1,Chelsea FC,0,wallace-oliveira,181779,6,159,0,Wallace Oliveira,Right-Back,£5.10m,out
+148,20,0,Chelsea FC,0,patrick-bamford,183334,4,31,0,Patrick Bamford,Centre-Forward,£1.28m,out
+149,24,1,Chelsea FC,1,sam-hutchinson,40617,14,1.200,1.200,Sam Hutchinson,Defensive Midfield,£128k,out
+150,36,2,Chelsea FC,12,frank-lampard,3163,19,1.280,107,Frank Lampard,Central Midfield,£1.70m,out
+151,18,0,Chelsea FC,0,islam-feruz,130427,4,88,0,Islam Feruz,Centre-Forward,£595k,out
+152,33,0,Chelsea FC,1,ashley-cole,3182,26,2.228,2.228,Ashley Cole,Left-Back,£4.25m,out
+153,23,3,Chelsea FC,2,gael-kakuta,74297,24,1.494,747,Gaël Kakuta,Left Wing,£2.13m,out
+154,19,0,Chelsea FC,2,stipe-perica,245072,9,353,177,Stipe Perica,Centre-Forward,£850k,out
+155,25,0,Chelsea FC,0,marko-marin,35251,2,141,0,Marko Marin,Attacking Midfield,£4.25m,out
+157,22,0,Chelsea FC,2,christian-atsu,186997,9,306,153,Christian Atsu,Right Wing,£5.10m,out
+158,19,0,Chelsea FC,0,cristian-cuevas,186863,6,540,0,Cristian Cuevas,Left-Back,£1.28m,out
+159,21,2,Chelsea FC,0,josh-mceachran,128905,12,336,0,Josh McEachran,Central Midfield,£3.40m,out
+160,19,0,Chelsea FC,0,mario-pasalic,205938,2,91,0,Mario Pasalic,Central Midfield,£2.55m,out
+161,19,1,Chelsea FC,0,nathaniel-chalobah,128900,3,42,0,Nathaniel Chalobah,Defensive Midfield,£3.40m,out
+162,23,1,Chelsea FC,2,victor-moses,59866,10,490,245,Victor Moses,Right Wing,£6.80m,out
+164,26,2,Crystal Palace,4,james-mcarthur,41416,9,749,187,James McArthur,Central Midfield,£2.55m,in
+165,21,1,Crystal Palace,0,zeki-fryers,141655,4,103,0,Zeki Fryers,Left-Back,£2.13m,in
+166,24,1,Crystal Palace,0,martin-kelly,78959,10,618,0,Martin Kelly,Right-Back,£2.98m,in
+167,26,0,Crystal Palace,0,fraizer-campbell,42411,2,22,0,Fraizer Campbell,Centre-Forward,£3.40m,in
+169,20,3,Crystal Palace,1,sam-magri,134421,17,1.477,1.477,Sam Magri,Right-Back,£43k,in
+170,33,4,Crystal Palace,10,brede-hangeland,25553,238,20.987,2.099,Brede Hangeland,Centre-Back,£2.55m,in
+171,21,4,Crystal Palace,1,wilfried-zaha,145988,10,834,834,Wilfried Zaha,Right Wing,£6.80m,in
+172,30,2,Crystal Palace,6,kevin-doyle,35193,26,2.182,364,Kevin Doyle,Centre-Forward,£1.28m,in
+173,21,0,Crystal Palace,0,jonathan-williams,170322,4,56,0,Jonathan Williams,Attacking Midfield,£850k,in
+175,29,1,Crystal Palace,0,adlene-guedioura,74768,5,229,0,Adlène Guédioura,Central Midfield,£850k,in
+176,22,1,Crystal Palace,0,zeki-fryers,141655,4,103,0,Zeki Fryers,Left-Back,£2.98m,in
+177,31,2,Crystal Palace,0,peter-ramage,28801,14,1.215,0,Peter Ramage,Centre-Back,£638k,in
+178,25,3,Crystal Palace,1,barry-bannan,61561,15,1.295,1.295,Barry Bannan,Central Midfield,£2.13m,in
+179,32,5,Crystal Palace,11,patrick-mccarthy,29974,240,20.461,1.860,Patrick McCarthy,Centre-Back,£425k,in
+180,32,3,Crystal Palace,6,stephen-dobbie,12693,12,1.022,170,Stephen Dobbie,Secondary Striker,£425k,in
+181,24,0,Crystal Palace,0,jack-hunt,135038,9,766,0,Jack Hunt,Right-Back,£2.13m,in
+182,33,21,Crystal Palace,51,andy-johnson,14031,187,13.997,274,Andy Johnson,Centre-Forward,£850k,in
+183,20,0,Crystal Palace,1,michael-chambers,244222,51,4.369,4.369,Michael Chambers,Centre-Back,-,in
+184,24,0,Crystal Palace,1,kwesi-appiah,121223,51,4.369,4.369,Kwesi Appiah,Centre-Forward,-,in
+185,21,3,Crystal Palace,2,jose-campana,120095,14,999,500,José Campaña,Central Midfield,£1.70m,in
+186,21,3,Crystal Palace,2,jose-campana,120095,14,999,500,José Campaña,Central Midfield,£1.70m,out
+187,23,0,Crystal Palace,0,jack-hunt,135038,9,766,0,Jack Hunt,Right-Back,£2.55m,out
+188,35,0,Crystal Palace,1,danny-gabbidon,12709,136,11.382,11.382,Danny Gabbidon,Centre-Back,£425k,out
+189,28,0,Crystal Palace,0,dean-moxey,77559,10,808,0,Dean Moxey,Left-Back,£850k,out
+190,20,0,Crystal Palace,0,jonathan-williams,170322,4,56,0,Jonathan Williams,Attacking Midfield,£1.28m,out
+191,19,0,Crystal Palace,0,ryan-inniss,183284,4,290,0,Ryan Inniss,Centre-Back,-,out
+192,29,0,Crystal Palace,1,kagisho-dikgacoi,63285,2,115,115,Kagisho Dikgacoi,Defensive Midfield,£1.70m,out
+193,31,3,Crystal Palace,6,stephen-dobbie,12693,12,1.022,170,Stephen Dobbie,Secondary Striker,£850k,out
+194,25,5,Crystal Palace,2,jonathan-parr,41665,26,2.124,1.062,Jonathan Parr,Left-Back,£1.28m,out
+195,26,5,Crystal Palace,2,owen-garvan,33249,26,2.124,1.062,Owen Garvan,Central Midfield,£850k,out
+197,31,5,Crystal Palace,11,patrick-mccarthy,29974,240,20.461,1.860,Patrick McCarthy,Centre-Back,£425k,out
+198,23,5,Crystal Palace,11,kwesi-appiah,121223,240,20.461,1.860,Kwesi Appiah,Centre-Forward,-,out
+199,24,1,Crystal Palace,4,osman-sow,206544,30,1.496,374,Osman Sow,Centre-Forward,£85k,out
+200,34,0,Crystal Palace,2,aaron-wilbraham,67202,12,350,175,Aaron Wilbraham,Centre-Forward,£213k,out
+201,30,2,Crystal Palace,0,peter-ramage,28801,14,1.215,0,Peter Ramage,Centre-Back,£850k,out
+203,20,0,Crystal Palace,1,michael-chambers,244222,51,4.369,4.369,Michael Chambers,Centre-Back,-,out
+204,20,0,Crystal Palace,0,alex-wynter,137150,6,455,0,Alex Wynter,Centre-Back,-,out
+205,30,2,Crystal Palace,9,glenn-murray,45693,16,1.232,137,Glenn Murray,Centre-Forward,£2.13m,out
+206,22,2,Crystal Palace,9,yaya-sanogo,127194,16,1.232,137,Yaya Sanogo,Centre-Forward,£1.28m,out
+207,21,1,Crystal Palace,5,ibra-sekajja,186176,12,1.031,206,Ibra Sekajja,Centre-Forward,-,out
+208,19,0,Crystal Palace,0,alastair-gordon,183297,2,180,0,Alastair Gordon,Right-Back,-,out
+209,33,32,Crystal Palace,45,aruna-dindane,9597,125,9.040,201,Aruna Dindane,Secondary Striker,-,out
+210,21,3,Everton FC,7,romelu-lukaku,96341,10,837,120,Romelu Lukaku,Centre-Forward,£21.25m,in
+211,21,3,Everton FC,7,muhamed-besic,93905,10,837,120,Muhamed Besic,Defensive Midfield,£2.13m,in
+212,18,2,Everton FC,1,david-henen,202831,6,328,328,David Henen,Left Wing,-,in
+213,18,2,Everton FC,1,sam-byrne,183169,6,328,328,Sam Byrne,Centre-Forward,-,in
+214,33,1,Everton FC,3,samuel-etoo,4257,8,640,213,Samuel Eto'o,Centre-Forward,£7.65m,in
+215,33,0,Everton FC,2,gareth-barry,3291,11,926,463,Gareth Barry,Defensive Midfield,£4.25m,in
+216,18,0,Everton FC,0,brendan-galloway,208244,3,248,0,Brendan Galloway,Left-Back,£43k,in
+218,22,0,Everton FC,2,christian-atsu,186997,9,306,153,Christian Atsu,Right Wing,£5.10m,in
+219,21,0,Everton FC,0,john-lundstram,156941,16,1.429,0,John Lundstram,Central Midfield,£425k,in
+220,22,0,Everton FC,1,conor-mcaleny,121260,2,59,59,Conor McAleny,Centre-Forward,£128k,in
+221,20,1,Everton FC,3,chris-long,183298,11,833,278,Chris Long,Secondary Striker,£170k,in
+222,23,1,Everton FC,1,francisco-junior,215840,20,1.304,1.304,Francisco Júnior,Central Midfield,£213k,in
+223,22,1,Everton FC,1,francisco-junior,215840,20,1.304,1.304,Francisco Júnior,Central Midfield,£213k,in
+224,20,0,Everton FC,0,ben-mclaughlin,203828,18,1.365,0,Ben McLaughlin,Right-Back,-,in
+225,20,3,Everton FC,3,hallam-hope,134418,17,874,291,Hallam Hope,Centre-Forward,-,in
+226,19,4,Everton FC,0,gethin-jones,242412,8,637,0,Gethin Jones,Right-Back,-,in
+227,18,0,Everton FC,0,curtis-langton,242413,10,584,0,Curtis Langton,Centre-Back,-,in
+228,22,0,Everton FC,0,shane-duffy,119269,15,1.350,0,Shane Duffy,Centre-Back,£1.28m,out
+229,22,0,Everton FC,5,apostolos-vellios,124495,15,939,188,Apostolos Vellios,Centre-Forward,£1.70m,out
+230,19,0,Everton FC,0,matthew-kennedy,132207,1,33,0,Matthew Kennedy,Right Wing,-,out
+233,24,3,Everton FC,2,magaye-gueye,91956,10,809,405,Magaye Gueye,Left Wing,£1.28m,out
+234,20,3,Everton FC,3,hallam-hope,134418,17,874,291,Hallam Hope,Centre-Forward,-,out
+235,19,1,Everton FC,1,courtney-duffus,242434,8,253,253,Courtney Duffus,Centre-Forward,-,out
+236,20,0,Everton FC,0,john-lundstram,156941,16,1.429,0,John Lundstram,Central Midfield,£425k,out
+237,23,0,Everton FC,2,christian-atsu,186997,9,306,153,Christian Atsu,Right Wing,£4.25m,out
+238,28,0,Everton FC,0,aaron-lennon,14221,3,47,0,Aaron Lennon,Right Wing,£7.65m,out
+239,20,0,Everton FC,0,gerard-deulofeu,129476,7,292,0,Gerard Deulofeu,Right Wing,£10.20m,out
+240,24,0,Everton FC,3,lacina-traore,69006,11,836,279,Lacina Traoré,Centre-Forward,£9.35m,out
+241,24,1,Hull City,1,abel-hernandez,76608,10,672,672,Abel Hernández,Centre-Forward,£4.25m,in
+242,26,1,Hull City,4,robert-snodgrass,22614,10,832,208,Robert Snodgrass,Right Wing,£4.68m,in
+243,24,1,Hull City,0,jake-livermore,61832,11,940,0,Jake Livermore,Defensive Midfield,£2.13m,in
+244,27,1,Hull City,0,mohamed-diame,70950,11,826,0,Mohamed Diamé,Central Midfield,£5.95m,in
+245,30,0,Hull City,1,michael-dawson,9988,3,270,270,Michael Dawson,Centre-Back,£5.53m,in
+246,20,0,Hull City,0,andrew-robertson,234803,8,693,0,Andrew Robertson,Left-Back,£510k,in
+247,21,1,Hull City,0,harry-maguire,177907,7,375,0,Harry Maguire,Centre-Back,£638k,in
+248,22,1,Hull City,3,tom-ince,157368,15,1.025,342,Tom Ince,Right Wing,£6.80m,in
+249,18,1,Hull City,1,jarrod-bowen,314875,8,623,623,Jarrod Bowen,Centre-Forward,-,in
+250,27,1,Hull City,0,hatem-ben-arfa,18900,9,212,0,Hatem Ben Arfa,Attacking Midfield,£7.65m,in
+251,23,1,Hull City,1,gaston-ramirez,123742,10,662,662,Gastón Ramírez,Attacking Midfield,£6.38m,in
+252,19,1,Hull City,1,johan-ter-horst,318224,10,662,662,Johan Ter Horst,Striker,-,in
+253,20,1,Hull City,1,brian-lenihan,241916,10,662,662,Brian Lenihan,Right-Back,-,in
+254,22,0,Hull City,0,calaum-jahraldo-martin,264406,4,44,0,Calaum Jahraldo-Martin,Right Wing,-,in
+255,22,2,Hull City,0,conor-townsend,146509,10,900,0,Conor Townsend,Left-Back,£170k,in
+256,22,1,Hull City,0,harry-maguire,177907,7,375,0,Harry Maguire,Centre-Back,£1.70m,in
+257,23,1,Hull City,3,tom-ince,157368,15,1.025,342,Tom Ince,Right Wing,£5.53m,in
+259,27,0,Hull City,0,shane-long,37304,7,323,0,Shane Long,Centre-Forward,£5.10m,out
+260,28,0,Hull City,0,george-boyd,45623,10,741,0,George Boyd,Right Midfield,£1.28m,out
+261,26,0,Hull City,3,yannick-sagbo,60591,3,270,90,Yannick Sagbo,Centre-Forward,£1.70m,out
+262,28,0,Hull City,3,matty-fryatt,14013,3,270,90,Matty Fryatt,Centre-Forward,£1.28m,out
+264,33,27,Hull City,41,robert-koren,26946,213,16.946,413,Robert Koren,Attacking Midfield,£850k,out
+265,22,1,Hull City,3,tom-ince,157368,15,1.025,342,Tom Ince,Right Wing,£6.80m,out
+266,19,1,Hull City,3,jack-barlow,329514,15,1.025,342,Jack Barlow,Midfield,-,out
+267,23,3,Hull City,0,joe-dudgeon,73492,33,2.426,0,Joe Dudgeon,Left-Back,£425k,out
+268,31,1,Hull City,0,maynor-figueroa,62240,28,2.434,0,Maynor Figueroa,Left-Back,£2.55m,out
+269,23,1,Hull City,0,cameron-stewart,73566,28,2.434,0,Cameron Stewart,Left Wing,£425k,out
+270,22,0,Hull City,0,conor-henderson,91330,0,0,0,Conor Henderson,Central Midfield,-,out
+271,21,2,Hull City,0,conor-townsend,146509,10,900,0,Conor Townsend,Left-Back,-,out
+272,27,1,Hull City,1,nick-proschwitz,31535,9,504,504,Nick Proschwitz,Centre-Forward,£850k,out
+273,24,1,Hull City,1,gaston-ramirez,123742,10,662,662,Gastón Ramírez,Attacking Midfield,£5.10m,out
+274,36,2,Hull City,10,abdoulaye-faye,6107,166,13.291,1.329,Abdoulaye Fayé,Centre-Back,£213k,out
+275,27,0,Leicester City,0,leonardo-ulloa,54890,7,92,0,Leonardo Ulloa,Centre-Forward,£1.70m,in
+276,27,0,Leicester City,0,danny-simpson,37442,10,837,0,Danny Simpson,Right-Back,£2.13m,in
+277,20,2,Leicester City,1,tom-lawrence,229970,10,802,802,Tom Lawrence,Secondary Striker,-,in
+279,24,0,Leicester City,0,marc-albrighton,61560,8,537,0,Marc Albrighton,Left Midfield,£2.13m,in
+281,34,0,Leicester City,0,esteban-cambiasso,7520,5,186,0,Esteban Cambiasso,Defensive Midfield,£2.55m,in
+282,35,3,Leicester City,9,matthew-upson,3273,289,23.848,2.650,Matthew Upson,Centre-Back,£425k,in
+283,20,0,Leicester City,0,kieran-kennedy,177394,0,0,0,Kieran Kennedy,Centre-Back,-,in
+284,20,0,Leicester City,0,joe-davis,169096,1,90,0,Joe Davis,Centre-Back,£21k,in
+285,20,0,Leicester City,1,nick-powell,134424,12,627,627,Nick Powell,Secondary Striker,£3.40m,in
+286,18,0,Leicester City,0,simonas-stankevicius,190514,11,654,0,Simonas Stankevicius,Centre-Forward,-,in
+287,22,1,Leicester City,1,adam-dawson,134258,11,583,583,Adam Dawson,Right Wing,-,in
+288,21,1,Leicester City,1,adam-dawson,134258,11,583,583,Adam Dawson,Right Wing,-,in
+289,30,5,Leicester City,1,paul-gallagher,10501,14,1.112,1.112,Paul Gallagher,Central Midfield,£340k,in
+290,21,1,Leicester City,0,ryan-watson,121269,11,774,0,Ryan Watson,Defensive Midfield,-,in
+291,23,0,Leicester City,8,chris-wood,108725,16,1.336,167,Chris Wood,Centre-Forward,£850k,in
+292,33,0,Leicester City,0,gary-taylor-fletcher,49101,3,71,0,Gary Taylor-Fletcher,Right Wing,£425k,in
+293,22,1,Leicester City,0,liam-moore,128906,12,1.080,0,Liam Moore,Centre-Back,£2.13m,in
+294,22,0,Leicester City,0,jacob-blyth,251914,2,29,0,Jacob Blyth,Centre-Forward,-,in
+295,24,0,Leicester City,5,marko-futacs,101277,9,448,90,Márkó Futács,Centre-Forward,£510k,in
+296,31,1,Leicester City,2,neil-danns,4108,12,803,402,Neil Danns,Central Midfield,£425k,in
+298,33,0,Leicester City,0,gary-taylor-fletcher,49101,3,71,0,Gary Taylor-Fletcher,Right Wing,£425k,out
+299,24,0,Leicester City,5,marko-futacs,101277,9,448,90,Márkó Futács,Centre-Forward,£510k,out
+300,22,0,Leicester City,0,jacob-blyth,251914,2,29,0,Jacob Blyth,Centre-Forward,-,out
+301,21,1,Leicester City,1,adam-dawson,134258,11,583,583,Adam Dawson,Right Wing,-,out
+302,31,1,Leicester City,2,neil-danns,4108,12,803,402,Neil Danns,Central Midfield,£425k,out
+303,30,0,Leicester City,4,zak-whitbread,22230,101,8.171,2.043,Zak Whitbread,Centre-Back,£638k,out
+304,31,2,Leicester City,3,lloyd-dyer,3668,16,1.440,480,Lloyd Dyer,Left Midfield,£595k,out
+305,21,1,Leicester City,1,adam-dawson,134258,11,583,583,Adam Dawson,Right Wing,-,out
+306,21,1,Leicester City,0,ryan-watson,121269,11,774,0,Ryan Watson,Defensive Midfield,-,out
+307,19,0,Leicester City,0,ben-frempah,290349,6,407,0,Ben Frempah,Centre-Back,-,out
+308,20,0,Leicester City,0,george-taft,177613,6,310,0,George Taft,Centre-Back,-,out
+309,29,5,Leicester City,1,paul-gallagher,10501,14,1.112,1.112,Paul Gallagher,Central Midfield,£340k,out
+310,30,1,Leicester City,0,robert-huth,2998,10,897,0,Robert Huth,Centre-Back,£4.25m,out
+311,18,0,Leicester City,0,robert-paratore,286913,9,288,0,Robert Paratore,Central Midfield,-,out
+312,29,0,Leicester City,0,sean-st-ledger,42206,9,288,0,Sean St. Ledger,Centre-Back,£1.28m,out
+313,40,1,Leicester City,94,kevin-phillips,3131,263,19.396,206,Kevin Phillips,Centre-Forward,£213k,out
+314,26,5,Liverpool FC,3,adam-lallana,43530,11,771,257,Adam Lallana,Attacking Midfield,£6.38m,in
+315,25,0,Liverpool FC,2,dejan-lovren,37838,8,720,360,Dejan Lovren,Centre-Back,£10.20m,in
+316,20,0,Liverpool FC,1,lazar-markovic,144303,5,200,200,Lazar Markovic,Right Wing,£8.50m,in
+317,24,0,Liverpool FC,6,mario-balotelli,45146,6,510,85,Mario Balotelli,Centre-Forward,£22.95m,in
+318,22,1,Liverpool FC,0,alberto-moreno,207917,5,197,0,Alberto Moreno,Left-Back,£12.75m,in
+319,19,0,Liverpool FC,0,divock-origi,148368,8,104,0,Divock Origi,Centre-Forward,£850k,in
+320,20,0,Liverpool FC,2,emre-can,119296,7,401,201,Emre Can,Defensive Midfield,£6.38m,in
+321,32,0,Liverpool FC,2,rickie-lambert,49655,10,706,353,Rickie Lambert,Centre-Forward,£4.25m,in
+322,20,0,Liverpool FC,0,javier-manquillo,162029,7,630,0,Javier Manquillo,Right-Back,£5.10m,in
+323,20,0,Liverpool FC,0,kevin-stewart,200782,4,16,0,Kevin Stewart,Defensive Midfield,£43k,in
+324,17,0,Liverpool FC,0,sheyi-ojo,236510,4,16,0,Sheyi Ojo,Left Wing,£425k,in
+325,22,0,Liverpool FC,0,andre-wisdom,128912,3,210,0,Andre Wisdom,Right-Back,£5.10m,in
+326,19,1,Liverpool FC,0,jordan-williams,279454,4,289,0,Jordan Williams,Defensive Midfield,-,in
+327,18,1,Liverpool FC,0,jordan-williams,279454,4,289,0,Jordan Williams,Defensive Midfield,-,in
+328,21,0,Liverpool FC,0,kevin-stewart,200782,4,16,0,Kevin Stewart,Defensive Midfield,£43k,in
+329,18,0,Liverpool FC,0,connor-randall,262545,6,540,0,Connor Randall,Right-Back,-,in
+330,24,1,Liverpool FC,3,sebastian-coates,102427,10,900,300,Sebastián Coates,Centre-Back,£1.28m,in
+331,17,1,Liverpool FC,3,sheyi-ojo,236510,10,900,300,Sheyi Ojo,Left Wing,-,in
+333,19,0,Liverpool FC,0,rafa-paez,268258,7,630,0,Rafa Páez,Centre-Back,-,in
+334,22,0,Liverpool FC,0,joao-teixeira,132214,0,0,0,João Teixeira,Attacking Midfield,£425k,in
+335,20,4,Liverpool FC,2,suso,111961,12,975,488,Suso,Right Wing,£4.25m,in
+336,21,0,Liverpool FC,0,tiago-ilori,177859,6,535,0,Tiago Ilori,Centre-Back,£3.40m,in
+337,21,1,Liverpool FC,2,krisztian-adorjan,143219,13,630,315,Krisztián Adorján,Right Wing,£638k,in
+339,23,1,Liverpool FC,3,sebastian-coates,102427,10,900,300,Sebastián Coates,Centre-Back,£2.13m,in
+340,27,4,Liverpool FC,8,luis-suarez,44352,11,820,103,Luis Suárez,Centre-Forward,£44.20m,out
+341,29,6,Liverpool FC,9,daniel-agger,22832,175,14.052,1.561,Daniel Agger,Centre-Back,£12.75m,out
+343,24,1,Liverpool FC,0,martin-kelly,78959,10,618,0,Martin Kelly,Right-Back,£2.98m,out
+344,20,0,Liverpool FC,0,jack-robinson,128909,2,148,0,Jack Robinson,Left-Back,£680k,out
+345,21,0,Liverpool FC,0,luis-alberto,128220,2,27,0,Luis Alberto,Attacking Midfield,£5.10m,out
+346,21,0,Liverpool FC,0,andre-wisdom,128912,3,210,0,Andre Wisdom,Right-Back,£2.13m,out
+347,21,2,Liverpool FC,8,michael-ngoo,175739,22,1.408,176,Michael Ngoo,Centre-Forward,£128k,out
+348,21,0,Liverpool FC,0,joao-teixeira,132214,0,0,0,João Teixeira,Attacking Midfield,-,out
+349,18,0,Liverpool FC,0,jordon-ibe,195652,11,674,0,Jordon Ibe,Right Wing,£425k,out
+350,23,1,Liverpool FC,3,sebastian-coates,102427,10,900,300,Sebastián Coates,Centre-Back,£2.13m,out
+351,19,1,Liverpool FC,1,kristoffer-peterson,186704,8,664,664,Kristoffer Peterson,Left Wing,-,out
+352,26,1,Liverpool FC,6,iago-aspas,72047,11,881,147,Iago Aspas,Centre-Forward,£5.95m,out
+353,19,0,Liverpool FC,0,rafa-paez,268258,7,630,0,Rafa Páez,Centre-Back,-,out
+354,21,0,Liverpool FC,0,tiago-ilori,177859,6,535,0,Tiago Ilori,Centre-Back,£3.40m,out
+355,19,0,Liverpool FC,0,divock-origi,148368,8,104,0,Divock Origi,Centre-Forward,£850k,out
+356,21,0,Liverpool FC,0,craig-roddan,175743,28,2.424,0,Craig Roddan,Central Midfield,-,out
+357,26,1,Liverpool FC,0,aly-cissokho,57515,12,918,0,Aly Cissokho,Left-Back,£5.10m,out
+358,23,0,Manchester City,0,eliaquim-mangala,90681,8,720,0,Eliaquim Mangala,Centre-Back,£23.80m,in
+359,26,0,Manchester City,0,fernando,51174,5,204,0,Fernando,Defensive Midfield,£14.88m,in
+361,21,0,Manchester City,0,bruno-zuculini,115507,8,546,0,Bruno Zuculini,Central Midfield,£3.40m,in
+362,31,1,Manchester City,0,bacary-sagna,26764,4,348,0,Bacary Sagna,Right-Back,£10.20m,in
+363,36,2,Manchester City,12,frank-lampard,3163,19,1.280,107,Frank Lampard,Central Midfield,£1.70m,in
+364,20,1,Manchester City,1,george-evans,181498,15,1.087,1.087,George Evans,Defensive Midfield,-,in
+365,26,2,Manchester City,9,scott-sinclair,31552,11,844,94,Scott Sinclair,Left Wing,£2.55m,in
+366,17,2,Manchester City,9,thierry-ambrose,265763,11,844,94,Thierry Ambrose,Centre-Forward,-,in
+367,20,2,Manchester City,0,devante-cole,186924,15,677,0,Devante Cole,Centre-Forward,£213k,in
+368,19,2,Manchester City,0,devante-cole,186924,15,677,0,Devante Cole,Centre-Forward,-,in
+369,23,1,Manchester City,1,john-guidetti,98596,5,245,245,John Guidetti,Centre-Forward,£2.98m,in
+370,19,0,Manchester City,0,jason-denayer,277114,4,212,0,Jason Denayer,Centre-Back,-,in
+371,18,2,Manchester City,0,jose-pozo,195605,11,733,0,José Pozo,Centre-Forward,-,in
+372,27,0,Manchester City,0,javi-garcia,36350,12,1.054,0,Javi García,Defensive Midfield,£10.20m,out
+373,23,1,Manchester City,0,jack-rodwell,57079,8,639,0,Jack Rodwell,Defensive Midfield,£10.20m,out
+374,26,0,Manchester City,0,micah-richards,32617,2,128,0,Micah Richards,Right-Back,£7.65m,out
+375,31,0,Manchester City,0,joleon-lescott,4241,4,360,0,Joleon Lescott,Centre-Back,£5.95m,out
+376,22,1,Manchester City,1,john-guidetti,98596,5,245,245,John Guidetti,Centre-Forward,£2.98m,out
+378,19,0,Manchester City,4,ellis-plummer,183771,1,,57,Ellis Plummer,Centre-Back,-,out
+379,19,2,Manchester City,0,devante-cole,186924,15,677,0,Devante Cole,Centre-Forward,-,out
+380,20,1,Manchester City,1,alex-henshall,137154,9,244,244,Alex Henshall,Left Wing,£85k,out
+381,33,0,Manchester City,2,gareth-barry,3291,11,926,463,Gareth Barry,Defensive Midfield,£4.25m,out
+382,18,0,Manchester City,2,rony-lopes,174694,5,405,203,Rony Lopes,Attacking Midfield,-,out
+383,20,0,Manchester City,0,albert-rusnak,43228,8,468,0,Albert Rusnák,Attacking Midfield,-,out
+384,21,0,Manchester City,0,bruno-zuculini,115507,8,546,0,Bruno Zuculini,Central Midfield,£2.55m,out
+385,19,0,Manchester City,0,jason-denayer,277114,4,212,0,Jason Denayer,Centre-Back,-,out
+386,29,3,Manchester City,1,alvaro-negredo,18644,11,887,887,Álvaro Negredo,Centre-Forward,£20.40m,out
+387,23,0,Manchester City,2,alex-nimely,121410,12,536,268,Alex Nimely,Centre-Forward,£43k,out
+388,20,5,Manchester City,3,adam-drury,186292,35,2.262,754,Adam Drury,Right-Back,-,out
+389,26,5,Manchester United,0,angel-di-maria,45320,11,863,0,Ángel Di María,Right Wing,£42.50m,in
+390,18,1,Manchester United,0,luke-shaw,183288,7,525,0,Luke Shaw,Left-Back,£11.05m,in
+391,24,0,Manchester United,0,ander-herrera,99343,8,565,0,Ander Herrera,Central Midfield,£17.00m,in
+392,24,0,Manchester United,0,marcos-rojo,93176,4,314,0,Marcos Rojo,Centre-Back,£10.20m,in
+393,24,2,Manchester United,0,daley-blind,12282,9,810,0,Daley Blind,Centre-Back,£10.20m,in
+394,28,0,Manchester United,4,falcao,39152,6,310,78,Falcao,Centre-Forward,£46.75m,in
+396,20,0,Manchester United,0,tyler-blackett,134414,7,590,0,Tyler Blackett,Left-Back,-,in
+399,19,0,Manchester United,0,saidy-janko,196435,4,297,0,Saidy Janko,Right-Back,£213k,in
+400,19,0,Manchester United,0,paddy-mcnair,167268,8,265,0,Paddy McNair,Centre-Back,-,in
+401,20,0,Manchester United,1,ben-pearson,183302,7,538,538,Ben Pearson,Central Midfield,-,in
+402,22,1,Manchester United,0,jesse-lingard,141660,6,337,0,Jesse Lingard,Left Wing,£850k,in
+403,18,0,Manchester United,0,james-wilson,214104,4,223,0,James Wilson,Centre-Forward,-,in
+404,25,0,Manchester United,0,tom-cleverley,73484,8,335,0,Tom Cleverley,Central Midfield,£7.65m,in
+405,22,0,Manchester United,0,will-keane,118535,5,282,0,Will Keane,Centre-Forward,£255k,in
+406,21,0,Manchester United,0,reece-james,245585,5,282,0,Reece James,Left-Back,-,in
+407,23,2,Manchester United,1,bebe,153427,7,360,360,Bebé,Right Wing,£850k,in
+408,26,0,Manchester United,1,anderson,31645,13,486,486,Anderson,Central Midfield,£4.25m,in
+409,22,0,Manchester United,1,marnick-vermijl,110798,5,287,287,Marnick Vermijl,Right-Back,£553k,in
+410,20,0,Manchester United,1,angelo-henriquez,189740,13,752,752,Ángelo Henríquez,Centre-Forward,£2.38m,in
+411,22,4,Manchester United,19,federico-macheda,61887,63,3.566,188,Federico Macheda,Centre-Forward,£1.28m,in
+412,23,4,Manchester United,19,danny-welbeck,67063,63,3.566,188,Danny Welbeck,Centre-Forward,£14.45m,out
+413,25,0,Manchester United,0,shinji-kagawa,81785,6,317,0,Shinji Kagawa,Attacking Midfield,£12.75m,out
+414,25,1,Manchester United,0,alexander-buttner,38003,4,204,0,Alexander Büttner,Left-Back,£2.98m,out
+415,26,1,Manchester United,5,chicharito,50935,9,729,146,Chicharito,Centre-Forward,£11.90m,out
+416,24,2,Manchester United,1,bebe,153427,7,360,360,Bebé,Right Wing,£850k,out
+417,33,0,Manchester United,0,patrice-evra,5285,4,338,0,Patrice Evra,Left-Back,£6.38m,out
+418,20,0,Manchester United,1,angelo-henriquez,189740,13,752,752,Ángelo Henríquez,Centre-Forward,£2.38m,out
+419,27,4,Manchester United,1,nani,33706,9,775,775,Nani,Right Wing,£10.20m,out
+422,18,2,Manchester United,4,sam-byrne,183169,5,,450,Sam Byrne,Centre-Forward,-,out
+423,35,7,Manchester United,11,rio-ferdinand,3235,503,43.774,3.979,Rio Ferdinand,Centre-Back,£1.28m,out
+424,22,4,Manchester United,19,federico-macheda,61887,63,3.566,188,Federico Macheda,Centre-Forward,£1.28m,out
+425,22,0,Manchester United,0,davide-petrucci,96798,8,709,0,Davide Petrucci,Central Midfield,£213k,out
+426,32,4,Manchester United,15,nemanja-vidic-lrm-,19726,211,18.088,1.206,Nemanja Vidic‎,Centre-Back,£8.50m,out
+427,25,0,Manchester United,0,tom-cleverley,73484,8,335,0,Tom Cleverley,Central Midfield,£9.35m,out
+428,19,0,Manchester United,0,jack-rudge,229947,2,15,0,Jack Rudge,Central Midfield,-,out
+429,21,0,Manchester United,1,michael-keane,118534,11,990,990,Michael Keane,Centre-Back,£425k,out
+430,20,0,Manchester United,1,nick-powell,134424,12,627,627,Nick Powell,Secondary Striker,£3.40m,out
+431,21,4,Manchester United,1,wilfried-zaha,145988,10,834,834,Wilfried Zaha,Right Wing,£6.80m,out
+432,21,4,Manchester United,1,andy-kellett,173783,10,834,834,Andy Kellett,Left-Back,-,out
+434,40,98,Manchester United,109,ryan-giggs,3406,632,46.393,426,Ryan Giggs,Left Midfield,£850k,out
+435,24,1,Newcastle United,1,remy-cabella,113707,9,622,622,Rémy Cabella,Attacking Midfield,£8.50m,in
+436,25,0,Newcastle United,0,siem-de-jong,45509,3,167,0,Siem de Jong,Attacking Midfield,£8.50m,in
+437,24,0,Newcastle United,0,emmanuel-riviere,61637,4,236,0,Emmanuel Rivière,Centre-Forward,£4.25m,in
+438,24,1,Newcastle United,1,daryl-janmaat,60744,5,287,287,Daryl Janmaat,Right-Back,£4.25m,in
+440,20,0,Newcastle United,1,jamaal-lascelles,183318,16,1.334,1.334,Jamaal Lascelles,Centre-Back,£510k,in
+441,23,0,Newcastle United,6,facundo-ferreyra,93795,9,511,85,Facundo Ferreyra,Centre-Forward,£5.10m,in
+442,20,3,Newcastle United,3,ayoze-perez,246968,12,746,249,Ayoze Pérez,Centre-Forward,£850k,in
+443,24,0,Newcastle United,0,jack-colback,61644,10,597,0,Jack Colback,Defensive Midfield,£3.83m,in
+445,18,3,Newcastle United,2,callum-roberts,288952,5,354,177,Callum Roberts,Left Wing,-,in
+447,18,0,Newcastle United,0,rolando-aarons,258188,4,76,0,Rolando Aarons,Left Wing,-,in
+448,20,1,Newcastle United,3,adam-campbell,204354,9,559,186,Adam Campbell,Centre-Forward,£213k,in
+449,19,1,Newcastle United,3,adam-campbell,204354,9,559,186,Adam Campbell,Centre-Forward,£213k,in
+451,19,1,Newcastle United,3,remie-streete,198587,16,1.440,480,Remie Streete,Centre-Back,-,in
+452,21,0,Newcastle United,1,jamaal-lascelles,183318,16,1.334,1.334,Jamaal Lascelles,Centre-Back,£2.55m,in
+453,22,1,Newcastle United,1,haris-vuckic,76560,5,166,166,Haris Vuckic,Attacking Midfield,£850k,in
+455,21,1,Newcastle United,0,mehdi-abeid,111036,9,719,0,Mehdi Abeid,Central Midfield,£638k,in
+456,30,0,Newcastle United,0,jonas-gutierrez,26443,6,505,0,Jonás Gutiérrez,Left Midfield,£2.55m,in
+457,24,0,Newcastle United,0,romain-amalfitano,137841,8,364,0,Romain Amalfitano,Right Wing,£850k,in
+458,28,0,Newcastle United,0,mathieu-debuchy,27306,8,364,0,Mathieu Debuchy,Right-Back,£8.50m,out
+459,25,0,Newcastle United,0,mapou-yanga-mbiwa,57480,8,601,0,Mapou Yanga-Mbiwa,Centre-Back,£4.25m,out
+460,22,0,Newcastle United,0,conor-newton,222148,10,388,0,Conor Newton,Central Midfield,£255k,out
+461,19,2,Newcastle United,1,steven-logan,198463,20,1.395,1.395,Steven Logan,Central Midfield,-,out
+463,19,1,Newcastle United,3,remie-streete,198587,16,1.440,480,Remie Streete,Centre-Back,-,out
+464,22,5,Newcastle United,5,michael-richardson,177022,31,2.433,487,Michael Richardson,Defensive Midfield,-,out
+465,24,0,Newcastle United,0,romain-amalfitano,137841,8,364,0,Romain Amalfitano,Right Wing,£850k,out
+466,32,20,Newcastle United,43,shola-ameobi,3276,299,14.833,345,Shola Ameobi,Centre-Forward,£1.28m,out
+467,19,1,Newcastle United,3,adam-campbell,204354,9,559,186,Adam Campbell,Centre-Forward,£213k,out
+469,24,0,Newcastle United,2,dan-gosling,44983,10,311,156,Dan Gosling,Central Midfield,£1.28m,out
+470,28,1,Newcastle United,1,sylvain-marveaux,39909,3,190,190,Sylvain Marveaux,Left Wing,£2.13m,out
+471,20,0,Newcastle United,1,jamaal-lascelles,183318,16,1.334,1.334,Jamaal Lascelles,Centre-Back,£510k,out
+472,27,1,Newcastle United,0,hatem-ben-arfa,18900,9,212,0,Hatem Ben Arfa,Attacking Midfield,£7.65m,out
+473,23,0,Newcastle United,1,james-tavernier,62094,11,990,990,James Tavernier,Right-Back,-,out
+474,23,5,Newcastle United,3,luuk-de-jong,72522,12,1.080,360,Luuk de Jong,Centre-Forward,£6.38m,out
+475,22,0,Queens Park Rangers,2,steven-caulker,121280,13,1.134,567,Steven Caulker,Centre-Back,£6.38m,in
+476,24,0,Queens Park Rangers,4,leroy-fer,63342,10,790,198,Leroy Fer,Central Midfield,£7.23m,in
+477,22,0,Queens Park Rangers,0,jordon-mutch,57207,2,159,0,Jordon Mutch,Central Midfield,£2.55m,in
+478,25,0,Queens Park Rangers,3,sandro,74590,2,180,60,Sandro,Defensive Midfield,£9.35m,in
+480,24,0,Queens Park Rangers,0,eduardo-vargas,89718,4,84,0,Eduardo Vargas,Right Wing,£5.10m,in
+481,20,0,Queens Park Rangers,0,jack-robinson,128909,2,148,0,Jack Robinson,Left-Back,£680k,in
+482,26,2,Queens Park Rangers,0,mauricio-isla,43722,11,875,0,Mauricio Isla,Right Midfield,£7.65m,in
+483,35,7,Queens Park Rangers,11,rio-ferdinand,3235,503,43.774,3.979,Rio Ferdinand,Centre-Back,£1.28m,in
+484,30,0,Queens Park Rangers,1,niko-kranjcar,16746,9,391,391,Niko Kranjcar,Attacking Midfield,£2.55m,in
+485,18,1,Queens Park Rangers,0,cole-kpekawa,347895,7,440,0,Cole Kpekawa,Left-Back,-,in
+486,23,0,Queens Park Rangers,3,max-ehmer,158718,16,1.440,480,Max Ehmer,Centre-Back,£85k,in
+488,18,1,Queens Park Rangers,0,cole-kpekawa,347895,7,440,0,Cole Kpekawa,Left-Back,-,in
+489,22,0,Queens Park Rangers,0,michael-harriman,155233,16,1.435,0,Michael Harriman,Right-Back,£85k,in
+490,21,3,Queens Park Rangers,3,bruno-andrade,169633,11,841,280,Bruno Andrade,Attacking Midfield,-,in
+492,21,0,Queens Park Rangers,0,jack-robinson,128909,2,148,0,Jack Robinson,Left-Back,£850k,in
+494,18,1,Queens Park Rangers,0,cole-kpekawa,347895,7,440,0,Cole Kpekawa,Left-Back,-,in
+495,19,2,Queens Park Rangers,5,michael-petrasso,189039,29,1.903,381,Michael Petrasso,Right Wing,-,in
+497,33,25,Queens Park Rangers,20,ji-sung-park,4592,153,9.443,472,Ji-Sung Park,Attacking Midfield,£1.70m,in
+498,25,25,Queens Park Rangers,20,adel-taarabt,45287,153,9.443,472,Adel Taarabt,Attacking Midfield,£5.10m,in
+499,28,0,Queens Park Rangers,6,stephane-mbia,27470,26,2.250,375,Stéphane Mbia,Defensive Midfield,£7.65m,in
+500,26,0,Queens Park Rangers,6,esteban-granero,44065,26,2.250,375,Esteban Granero,Central Midfield,£4.25m,in
+501,27,0,Queens Park Rangers,6,loic-remy,45121,26,2.250,375,Loïc Rémy,Centre-Forward,£10.20m,out
+502,27,0,Queens Park Rangers,6,esteban-granero,44065,26,2.250,375,Esteban Granero,Central Midfield,£4.25m,out
+503,27,0,Queens Park Rangers,0,danny-simpson,37442,10,837,0,Danny Simpson,Right-Back,£2.13m,out
+504,21,0,Queens Park Rangers,0,mo-shariff,264509,4,172,0,Mo Shariff,Centre-Forward,-,out
+506,34,0,Queens Park Rangers,2,yossi-benayoun,7858,6,291,146,Yossi Benayoun,Right Wing,£850k,out
+507,19,2,Queens Park Rangers,5,michael-petrasso,189039,29,1.903,381,Michael Petrasso,Right Wing,-,out
+508,19,2,Queens Park Rangers,5,michael-petrasso,189039,29,1.903,381,Michael Petrasso,Right Wing,-,out
+509,31,3,Queens Park Rangers,0,gary-oneil,3995,14,1.115,0,Gary O'Neil,Central Midfield,£1.70m,out
+510,19,0,Queens Park Rangers,0,emmanuel-monthe,319630,7,350,0,Emmanuel Monthe,Left-Back,-,out
+511,21,0,Queens Park Rangers,0,michael-harriman,155233,16,1.435,0,Michael Harriman,Right-Back,£85k,out
+512,20,0,Queens Park Rangers,0,frankie-sutherland,148911,5,356,0,Frankie Sutherland,Central Midfield,-,out
+513,28,0,Queens Park Rangers,6,stephane-mbia,27470,26,2.250,375,Stéphane Mbia,Defensive Midfield,£7.65m,out
+514,20,3,Queens Park Rangers,1,sam-magri,134421,17,1.477,1.477,Sam Magri,Right-Back,£43k,out
+516,21,7,Queens Park Rangers,9,tom-hitchcock,121386,42,1.804,200,Tom Hitchcock,Centre-Forward,-,out
+517,34,0,Queens Park Rangers,0,aaron-hughes,3580,5,425,0,Aaron Hughes,Centre-Back,£595k,out
+518,20,0,Queens Park Rangers,0,jamie-sendles-white,248755,5,388,0,Jamie Sendles-White,Centre-Back,-,out
+519,21,5,Queens Park Rangers,2,michael-doughty,173832,8,674,337,Michael Doughty,Central Midfield,£43k,out
+521,20,0,Queens Park Rangers,0,jack-robinson,128909,2,148,0,Jack Robinson,Left-Back,£680k,out
+522,25,0,Queens Park Rangers,0,samba-diakite,136589,41,2.871,0,Samba Diakité,Defensive Midfield,£2.13m,out
+523,28,0,Queens Park Rangers,0,mauro-zarate,26456,3,55,0,Mauro Zárate,Secondary Striker,£2.98m,out
+524,26,12,Queens Park Rangers,9,hogan-ephraim,31883,132,7.469,830,Hogan Ephraim,Left Midfield,£425k,out
+525,24,4,Queens Park Rangers,4,angelo-balanta,43696,19,1.678,420,Ángelo Balanta,Left Wing,-,out
+526,31,14,Queens Park Rangers,32,jermaine-jenas,3461,280,20.977,656,Jermaine Jenas,Central Midfield,£1.45m,out
+527,33,25,Queens Park Rangers,20,ji-sung-park,4592,153,9.443,472,Ji-Sung Park,Attacking Midfield,£1.70m,out
+528,34,3,Queens Park Rangers,9,luke-young,3271,377,31.605,3.512,Luke Young,Right-Back,£425k,out
+529,33,21,Queens Park Rangers,51,andy-johnson,14031,187,13.997,274,Andy Johnson,Centre-Forward,£850k,out
+530,29,0,Queens Park Rangers,1,niko-kranjcar,16746,9,391,391,Niko Kranjcar,Attacking Midfield,£2.55m,out
+531,22,1,Queens Park Rangers,10,dellatorre,184604,26,1.767,177,Dellatorre,Centre-Forward,£1.28m,out
+532,22,2,Southampton FC,6,sadio-mane,200512,10,871,145,Sadio Mané,Left Wing,£6.38m,in
+533,27,0,Southampton FC,0,shane-long,37304,7,323,0,Shane Long,Centre-Forward,£5.10m,in
+534,25,1,Southampton FC,1,dusan-tadic,36139,11,863,863,Dusan Tadic,Left Wing,£8.50m,in
+536,28,7,Southampton FC,11,graziano-pelle,29594,30,2.171,197,Graziano Pellè,Centre-Forward,£5.53m,in
+537,25,0,Southampton FC,0,florin-gardos,57423,3,196,0,Florin Gardos,Centre-Back,£5.10m,in
+538,24,1,Southampton FC,0,ryan-bertrand,40611,6,528,0,Ryan Bertrand,Left-Back,£5.10m,in
+539,22,0,Southampton FC,1,saphir-taider,144779,11,951,951,Saphir Taider,Central Midfield,£6.80m,in
+540,25,0,Southampton FC,0,toby-alderweireld,42710,8,690,0,Toby Alderweireld,Centre-Back,£8.50m,in
+541,24,1,Southampton FC,1,gaston-ramirez,123742,10,662,662,Gastón Ramírez,Attacking Midfield,£5.10m,in
+542,32,0,Southampton FC,0,jos-hooiveld,4624,11,956,0,Jos Hooiveld,Centre-Back,£1.28m,in
+543,18,0,Southampton FC,1,jake-hesketh,315185,4,347,347,Jake Hesketh,Attacking Midfield,-,in
+545,18,0,Southampton FC,0,matt-targett,250478,4,284,0,Matt Targett,Left-Back,-,in
+546,21,0,Southampton FC,2,jack-stephens,163744,4,360,180,Jack Stephens,Centre-Back,£213k,in
+547,22,1,Southampton FC,0,lloyd-isgrove,226965,2,158,0,Lloyd Isgrove,Right Wing,£213k,in
+548,23,0,Southampton FC,0,emmanuel-mayuka,55709,1,10,0,Emmanuel Mayuka,Centre-Forward,£1.70m,in
+549,28,13,Southampton FC,41,daniel-osvaldo,37389,124,7.457,182,Daniel Osvaldo,Centre-Forward,£11.05m,in
+550,29,0,Southampton FC,3,lee-barnard,4058,16,1.075,358,Lee Barnard,Centre-Forward,£213k,in
+551,18,1,Southampton FC,0,luke-shaw,183288,7,525,0,Luke Shaw,Left-Back,£11.05m,out
+552,26,5,Southampton FC,3,adam-lallana,43530,11,771,257,Adam Lallana,Attacking Midfield,£6.38m,out
+553,25,0,Southampton FC,2,dejan-lovren,37838,8,720,360,Dejan Lovren,Centre-Back,£10.20m,out
+554,19,0,Southampton FC,1,calum-chambers,215118,6,540,540,Calum Chambers,Right-Back,£1.70m,out
+555,32,0,Southampton FC,2,rickie-lambert,49655,10,706,353,Rickie Lambert,Centre-Forward,£4.25m,out
+556,28,4,Southampton FC,11,billy-sharp,49542,16,1.374,125,Billy Sharp,Centre-Forward,£1.70m,out
+557,28,0,Southampton FC,0,danny-fox,31553,7,495,0,Danny Fox,Left-Back,£1.70m,out
+558,19,0,Southampton FC,0,jamal-branker,226960,0,0,0,Jamal Branker,Right Wing,-,out
+560,28,13,Southampton FC,41,daniel-osvaldo,37389,124,7.457,182,Daniel Osvaldo,Centre-Forward,£9.35m,out
+561,29,0,Southampton FC,3,lee-barnard,4058,16,1.075,358,Lee Barnard,Centre-Forward,£213k,out
+562,20,0,Southampton FC,2,jack-stephens,163744,4,360,180,Jack Stephens,Centre-Back,£128k,out
+563,20,0,Southampton FC,0,joe-curtis,226963,9,583,0,Joe Curtis,Central Midfield,-,out
+564,28,2,Southampton FC,4,jonathan-forte,39505,15,1.236,309,Jonathan Forte,Centre-Forward,-,out
+565,31,0,Southampton FC,0,jos-hooiveld,4624,11,956,0,Jos Hooiveld,Centre-Back,£1.70m,out
+566,23,1,Southampton FC,1,gaston-ramirez,123742,10,662,662,Gastón Ramírez,Attacking Midfield,£6.38m,out
+567,19,8,Southampton FC,7,jake-sinclair,226977,40,2.992,427,Jake Sinclair,Secondary Striker,-,out
+568,22,0,Southampton FC,1,saphir-taider,144779,11,951,951,Saphir Taider,Central Midfield,£6.80m,out
+569,32,1,Southampton FC,19,guly,22801,103,6.293,331,Guly,Attacking Midfield,£850k,out
+570,23,0,Stoke City,2,bojan-krkic,44675,6,290,145,Bojan Krkic,Secondary Striker,£4.25m,in
+571,19,0,Stoke City,4,robbie-parry,203196,14,954,239,Robbie Parry,Right Wing,-,in
+572,29,0,Stoke City,0,phil-bardsley,15773,8,605,0,Phil Bardsley,Right-Back,£2.55m,in
+573,21,0,Stoke City,0,dionatan-teixeira,107617,8,605,0,Dionatan Teixeira,Centre-Back,£298k,in
+574,26,0,Stoke City,0,mame-diouf,62049,7,285,0,Mame Diouf,Centre-Forward,£9.35m,in
+575,31,0,Stoke City,1,steve-sidwell,13427,13,908,908,Steve Sidwell,Central Midfield,£2.13m,in
+576,23,1,Stoke City,2,victor-moses,59866,10,490,245,Victor Moses,Right Wing,£6.80m,in
+577,18,0,Stoke City,0,keiran-monlouis,307014,8,404,0,Keiran Monlouis,Midfield,-,in
+578,21,0,Stoke City,0,elliot-wheeler,227946,28,2.516,0,Elliot Wheeler,Right-Back,-,in
+579,26,1,Stoke City,1,ryan-shotton,92109,16,1.440,1.440,Ryan Shotton,Right-Back,£850k,in
+580,18,0,Stoke City,0,jake-cook,264367,2,133,0,Jake Cook,Right-Back,-,in
+581,24,0,Stoke City,0,jamie-ness,61012,2,38,0,Jamie Ness,Central Midfield,£425k,in
+582,30,1,Stoke City,0,robert-huth,2998,10,897,0,Robert Huth,Centre-Back,£4.25m,in
+583,16,1,Stoke City,0,oliver-shenton,335541,8,699,0,Oliver Shenton,Attacking Midfield,-,in
+586,19,0,Stoke City,3,james-alabi,223261,15,1.130,377,James Alabi,Centre-Forward,-,in
+587,21,0,Stoke City,1,alex-grant,225068,4,360,360,Alex Grant,Centre-Back,-,in
+588,21,4,Stoke City,7,juan-agudelo,131171,24,1.349,193,Juan Agudelo,Centre-Forward,£850k,in
+589,28,0,Stoke City,0,michael-kightly,25366,3,94,0,Michael Kightly,Left Wing,£2.30m,out
+590,28,4,Stoke City,6,cameron-jerome,35855,15,1.327,221,Cameron Jerome,Centre-Forward,£1.28m,out
+591,24,2,Stoke City,3,brek-shea,71107,27,2.002,667,Brek Shea,Left-Back,£850k,out
+592,23,0,Stoke City,0,jamie-ness,61012,2,38,0,Jamie Ness,Central Midfield,£425k,out
+593,20,0,Stoke City,1,alex-grant,225068,4,360,360,Alex Grant,Centre-Back,-,out
+594,30,1,Stoke City,0,andy-wilkinson,13616,123,9.028,0,Andy Wilkinson,Right-Back,£850k,out
+595,19,0,Stoke City,3,james-alabi,223261,15,1.130,377,James Alabi,Centre-Forward,-,out
+597,32,31,Stoke City,21,matthew-etherington,3788,288,19.818,944,Matthew Etherington,Left Midfield,£1.28m,out
+598,20,0,Stoke City,0,ben-glasgow,173601,10,855,0,Ben Glasgow,Right-Back,-,out
+600,19,0,Stoke City,0,tom-king,175734,3,25,0,Tom King,Centre-Back,-,out
+601,25,1,Stoke City,1,ryan-shotton,92109,16,1.440,1.440,Ryan Shotton,Right-Back,£850k,out
+602,24,1,Stoke City,2,victor-moses,59866,10,490,245,Victor Moses,Right Wing,£6.38m,out
+603,20,1,Stoke City,1,lucas-dawson,145484,15,929,929,Lucas Dawson,Central Midfield,-,out
+604,21,4,Stoke City,7,juan-agudelo,131171,24,1.349,193,Juan Agudelo,Centre-Forward,£850k,out
+605,23,1,Sunderland AFC,0,jack-rodwell,57079,8,639,0,Jack Rodwell,Defensive Midfield,£10.20m,in
+606,24,0,Sunderland AFC,0,will-buckley,77329,6,139,0,Will Buckley,Right Wing,£1.28m,in
+607,23,0,Sunderland AFC,2,patrick-van-aanholt,52119,10,793,397,Patrick van Aanholt,Left-Back,£2.98m,in
+608,26,2,Sunderland AFC,0,ricardo-alvarez,76077,9,552,0,Ricardo Álvarez,Attacking Midfield,£12.33m,in
+609,27,0,Sunderland AFC,0,billy-jones,36866,4,234,0,Billy Jones,Right-Back,£2.13m,in
+611,29,0,Sunderland AFC,2,jordi-gomez,39010,9,565,283,Jordi Gómez,Attacking Midfield,£2.13m,in
+612,23,1,Sunderland AFC,3,sebastian-coates,102427,10,900,300,Sebastián Coates,Centre-Back,£2.13m,in
+613,34,15,Sunderland AFC,6,anthony-reveillere,5668,426,36.153,6.026,Anthony Réveillère,Right-Back,£255k,in
+614,20,2,Sunderland AFC,6,mikael-mandron,218144,19,1.446,241,Mikael Mandron,Centre-Forward,-,in
+619,25,7,Sunderland AFC,17,cabral,33046,19,,1.710,Cabral,Defensive Midfield,£850k,in
+620,24,0,Sunderland AFC,0,alfred-ndiaye,77737,5,105,0,Alfred N'Diaye,Defensive Midfield,£4.25m,in
+621,27,2,Sunderland AFC,3,modibo-diakite,41749,109,8.023,2.674,Modibo Diakité,Centre-Back,£1.70m,in
+622,24,0,Sunderland AFC,0,alfred-ndiaye,77737,5,105,0,Alfred N'Diaye,Defensive Midfield,£3.40m,out
+623,29,0,Sunderland AFC,4,ignacio-scocco,51088,6,464,116,Ignacio Scocco,Centre-Forward,£3.83m,out
+624,20,2,Sunderland AFC,1,david-moberg-karlsson,63422,23,1.313,1.313,David Moberg Karlsson,Right Wing,£850k,out
+625,32,0,Sunderland AFC,0,carlos-cuellar,16576,9,750,0,Carlos Cuéllar,Centre-Back,£1.28m,out
+627,27,1,Sunderland AFC,0,craig-gardner,37171,7,193,0,Craig Gardner,Central Midfield,£3.83m,out
+628,20,0,Sunderland AFC,0,scott-harrison,204114,10,672,0,Scott Harrison,Centre-Back,-,out
+629,21,0,Sunderland AFC,3,john-egan,121324,16,1.440,480,John Egan,Centre-Back,-,out
+631,31,0,Sunderland AFC,0,david-vaughan,14178,4,277,0,David Vaughan,Defensive Midfield,£1.45m,out
+632,21,0,Sunderland AFC,0,el-hadji-ba,169090,4,277,0,El-Hadji Ba,Defensive Midfield,-,out
+633,29,0,Sunderland AFC,0,phil-bardsley,15773,8,605,0,Phil Bardsley,Right-Back,£2.55m,out
+634,21,1,Sunderland AFC,1,louis-laing,110865,13,1.149,1.149,Louis Laing,Centre-Back,-,out
+635,27,2,Sunderland AFC,3,modibo-diakite,41749,109,8.023,2.674,Modibo Diakité,Centre-Back,£1.70m,out
+638,21,1,Sunderland AFC,0,jordan-watson,121349,14,888,0,Jordan Watson,Left-Back,-,out
+639,24,0,Sunderland AFC,0,jack-colback,61644,10,597,0,Jack Colback,Defensive Midfield,£3.83m,out
+641,19,2,Sunderland AFC,7,jordan-laidler,196313,25,1.830,261,Jordan Laidler,Centre-Forward,-,out
+642,27,0,Sunderland AFC,0,valentin-roberge,87422,10,855,0,Valentin Roberge,Centre-Back,£1.28m,out
+643,24,1,Sunderland AFC,3,sebastian-coates,102427,10,900,300,Sebastián Coates,Centre-Back,£1.28m,out
+644,32,12,Sunderland AFC,5,andrea-dossena,21863,180,12.777,2.555,Andrea Dossena,Left-Back,£1.28m,out
+645,25,0,Sunderland AFC,0,ondrej-celustka,70131,10,900,0,Ondrej Celustka,Centre-Back,£2.13m,out
+646,23,1,Sunderland AFC,1,marcos-alonso,112515,6,485,485,Marcos Alonso,Left-Back,£1.70m,out
+647,24,3,Swansea City,2,gylfi-sigurdsson,90466,11,897,449,Gylfi Sigurdsson,Attacking Midfield,£6.80m,in
+648,25,0,Swansea City,0,federico-fernandez,85475,6,540,0,Federico Fernández,Centre-Back,£4.25m,in
+649,24,0,Swansea City,0,jefferson-montero,77932,5,160,0,Jefferson Montero,Left Wing,£2.81m,in
+650,21,2,Swansea City,0,modou-barrow,189070,11,702,0,Modou Barrow,Right Wing,£213k,in
+651,26,3,Swansea City,3,marvin-emnes,37787,11,766,255,Marvin Emnes,Centre-Forward,£1.28m,in
+652,28,1,Swansea City,6,bafetimbi-gomis,22388,11,954,159,Bafetimbi Gomis,Centre-Forward,£8.50m,in
+654,19,0,Swansea City,0,stephen-kingsley,184398,7,585,0,Stephen Kingsley,Left-Back,£170k,in
+655,22,0,Swansea City,0,tom-carroll,121279,2,151,0,Tom Carroll,Central Midfield,£1.70m,in
+656,22,2,Swansea City,0,modou-barrow,189070,11,702,0,Modou Barrow,Right Wing,£850k,in
+657,20,0,Swansea City,0,scott-tancock,197833,8,590,0,Scott Tancock,Centre-Back,-,in
+658,23,0,Swansea City,1,rory-donnelly,164389,10,346,346,Rory Donnelly,Centre-Forward,-,in
+659,20,0,Swansea City,0,liam-shephard,197910,9,763,0,Liam Shephard,Right-Back,-,in
+660,17,1,Swansea City,0,keston-davies,250730,8,720,0,Keston Davies,Centre-Back,-,in
+661,32,6,Swansea City,2,alan-tate,7337,128,10.727,5.364,Alan Tate,Centre-Back,£425k,in
+662,19,0,Swansea City,3,ryan-hedges,326230,15,1.251,417,Ryan Hedges,Right Wing,-,in
+663,29,6,Swansea City,4,dwight-tiendalli,29356,160,12.276,3.069,Dwight Tiendalli,Right-Back,£850k,in
+665,24,0,Swansea City,0,jazz-richards,120241,8,676,0,Jazz Richards,Right-Back,£425k,in
+666,20,0,Swansea City,0,stephen-kingsley,184398,7,585,0,Stephen Kingsley,Left-Back,£425k,in
+667,21,0,Swansea City,0,ben-davies,192765,4,283,0,Ben Davies,Left-Back,£4.68m,out
+669,29,2,Swansea City,2,pablo-hernandez,46220,12,1.015,508,Pablo Hernández,Right Wing,£6.80m,out
+670,27,0,Swansea City,0,chico,51681,4,360,0,Chico,Centre-Back,£5.53m,out
+671,28,0,Swansea City,0,michu,70789,10,616,0,Michu,Secondary Striker,£10.20m,out
+672,32,6,Swansea City,2,alan-tate,7337,128,10.727,5.364,Alan Tate,Centre-Back,£425k,out
+673,22,4,Swansea City,2,alejandro-pozuelo,188853,13,1.130,565,Alejandro Pozuelo,Attacking Midfield,£1.70m,out
+674,29,15,Swansea City,53,leroy-lita,20975,170,11.557,218,Leroy Lita,Centre-Forward,£638k,out
+675,27,0,Swansea City,0,jose-alberto-canas,69609,7,580,0,José Alberto Cañas,Defensive Midfield,£3.83m,out
+676,25,3,Swansea City,1,curtis-obeng,125467,29,2.559,2.559,Curtis Obeng,Right-Back,£213k,out
+677,22,0,Swansea City,0,daniel-alfei,130216,6,540,0,Daniel Alfei,Right-Back,-,out
+678,22,0,Swansea City,0,darnel-situ,111059,1,23,0,Darnel Situ,Centre-Back,£213k,out
+679,25,0,Swansea City,1,david-ngog,41242,8,82,82,David N'Gog,Centre-Forward,£1.28m,out
+680,20,0,Swansea City,0,scott-tancock,197833,8,590,0,Scott Tancock,Centre-Back,-,out
+681,21,5,Swansea City,1,jernade-meade,126195,28,2.473,2.473,Jernade Meade,Left-Back,-,out
+682,23,0,Swansea City,0,tom-carroll,121279,2,151,0,Tom Carroll,Central Midfield,£2.55m,out
+683,26,0,Swansea City,0,jonathan-de-guzman,31067,6,143,0,Jonathan de Guzmán,Attacking Midfield,£7.65m,out
+684,26,3,Swansea City,3,marvin-emnes,37787,11,766,255,Marvin Emnes,Centre-Forward,£1.28m,out
+685,23,0,Swansea City,0,alvaro-vazquez,141835,2,104,0,Álvaro Vázquez,Centre-Forward,£2.55m,out
+686,26,3,Swansea City,7,roland-lamah,35035,63,3.735,534,Roland Lamah,Left Wing,£2.13m,out
+687,21,0,Tottenham Hotspur,0,ben-davies,192765,4,283,0,Ben Davies,Left-Back,£4.68m,in
+688,27,0,Tottenham Hotspur,0,federico-fazio,45314,11,846,0,Federico Fazio,Centre-Back,£6.80m,in
+689,24,0,Tottenham Hotspur,0,benjamin-stambouli,127160,7,267,0,Benjamin Stambouli,Defensive Midfield,£4.25m,in
+691,20,0,Tottenham Hotspur,0,eric-dier,175722,10,721,0,Eric Dier,Defensive Midfield,£2.98m,in
+692,21,3,Tottenham Hotspur,1,deandre-yedlin,255916,9,488,488,DeAndre Yedlin,Right-Back,£213k,in
+693,22,2,Tottenham Hotspur,0,alex-pritchard,200777,7,343,0,Alex Pritchard,Attacking Midfield,£850k,in
+694,23,0,Tottenham Hotspur,0,grant-hall,124845,12,1.025,0,Grant Hall,Centre-Back,£85k,in
+695,19,0,Tottenham Hotspur,3,dele-alli,207929,10,802,267,Dele Alli,Central Midfield,£4.25m,in
+696,19,1,Tottenham Hotspur,0,ruben-lameiras,264848,12,671,0,Ruben Lameiras,Right Midfield,-,in
+697,22,0,Tottenham Hotspur,0,ryan-fredericks,140191,3,220,0,Ryan Fredericks,Right-Back,£213k,in
+698,28,0,Tottenham Hotspur,0,aaron-lennon,14221,3,47,0,Aaron Lennon,Right Wing,£7.65m,in
+699,28,0,Tottenham Hotspur,0,bongani-khumalo,82215,3,181,0,Bongani Khumalo,Centre-Back,£638k,in
+700,23,0,Tottenham Hotspur,0,tom-carroll,121279,2,151,0,Tom Carroll,Central Midfield,£2.55m,in
+701,19,0,Tottenham Hotspur,0,milos-veljkovic,202228,4,240,0,Milos Veljkovic,Centre-Back,£213k,in
+702,20,0,Tottenham Hotspur,2,shaq-coulthirst,251829,10,492,246,Shaq Coulthirst,Secondary Striker,-,in
+703,19,0,Tottenham Hotspur,1,tomislav-gomelt,210983,5,334,334,Tomislav Gomelt,Central Midfield,-,in
+704,21,0,Tottenham Hotspur,0,cristian-ceballos,166640,9,637,0,Cristian Ceballos,Left Wing,£255k,in
+705,24,3,Tottenham Hotspur,5,iago-falque,59340,9,697,139,Iago Falqué,Right Wing,£1.53m,in
+706,24,3,Tottenham Hotspur,2,gylfi-sigurdsson,90466,11,897,449,Gylfi Sigurdsson,Attacking Midfield,£6.80m,out
+707,25,0,Tottenham Hotspur,3,sandro,74590,2,180,60,Sandro,Defensive Midfield,£9.35m,out
+708,24,1,Tottenham Hotspur,0,jake-livermore,61832,11,940,0,Jake Livermore,Defensive Midfield,£2.13m,out
+709,30,0,Tottenham Hotspur,1,michael-dawson,9988,3,270,270,Michael Dawson,Centre-Back,£5.53m,out
+710,21,1,Tottenham Hotspur,0,zeki-fryers,141655,4,103,0,Zeki Fryers,Left-Back,£2.13m,out
+711,23,0,Tottenham Hotspur,0,lewis-holtby,55508,7,606,0,Lewis Holtby,Central Midfield,£6.38m,out
+712,24,3,Tottenham Hotspur,5,iago-falque,59340,9,697,139,Iago Falqué,Right Wing,£1.53m,out
+713,23,0,Tottenham Hotspur,2,jonathan-obika,61838,7,577,289,Jonathan Obika,Centre-Forward,-,out
+715,21,2,Tottenham Hotspur,4,cameron-lancaster,182660,26,968,242,Cameron Lancaster,Centre-Forward,-,out
+716,19,0,Tottenham Hotspur,2,shaq-coulthirst,251829,10,492,246,Shaq Coulthirst,Secondary Striker,-,out
+717,20,0,Tottenham Hotspur,0,kevin-stewart,200782,4,16,0,Kevin Stewart,Defensive Midfield,£43k,out
+718,21,0,Tottenham Hotspur,0,ryan-fredericks,140191,3,220,0,Ryan Fredericks,Right-Back,-,out
+719,22,0,Tottenham Hotspur,0,grant-hall,124845,12,1.025,0,Grant Hall,Centre-Back,-,out
+720,21,2,Tottenham Hotspur,0,alex-pritchard,200777,7,343,0,Alex Pritchard,Attacking Midfield,£128k,out
+721,19,0,Tottenham Hotspur,0,milos-veljkovic,202228,4,240,0,Milos Veljkovic,Centre-Back,-,out
+722,19,1,Tottenham Hotspur,0,roman-michael-percil,264179,4,87,0,Roman Michael-Percil,Right-Back,-,out
+724,22,0,Tottenham Hotspur,0,tom-carroll,121279,2,151,0,Tom Carroll,Central Midfield,£1.70m,out
+725,19,0,Tottenham Hotspur,1,tomislav-gomelt,210983,5,334,334,Tomislav Gomelt,Central Midfield,-,out
+726,21,3,Tottenham Hotspur,1,deandre-yedlin,255916,9,488,488,DeAndre Yedlin,Right-Back,£213k,out
+727,25,2,West Bromwich Albion,7,brown-ideye,64308,8,642,92,Brown Ideye,Centre-Forward,£5.95m,in
+728,24,0,West Bromwich Albion,0,cristian-gamboa,121686,4,229,0,Cristian Gamboa,Right-Back,£850k,in
+729,26,0,West Bromwich Albion,0,sebastian-blanco,54576,7,583,0,Sebastián Blanco,Attacking Midfield,£5.10m,in
+730,26,0,West Bromwich Albion,0,sebastien-pocognoli,17804,3,99,0,Sébastien Pocognoli,Left-Back,£2.13m,in
+731,31,0,West Bromwich Albion,0,joleon-lescott,4241,4,360,0,Joleon Lescott,Centre-Back,£5.95m,in
+732,32,0,West Bromwich Albion,0,chris-baird,4115,5,198,0,Chris Baird,Defensive Midfield,£595k,in
+733,21,0,West Bromwich Albion,0,andre-wisdom,128912,3,210,0,Andre Wisdom,Right-Back,£2.13m,in
+734,27,1,West Bromwich Albion,0,craig-gardner,37171,7,193,0,Craig Gardner,Central Midfield,£3.83m,in
+735,29,0,West Bromwich Albion,2,georgios-samaras,6855,16,930,465,Georgios Samaras,Left Wing,£2.55m,in
+736,29,0,West Bromwich Albion,0,silvestre-varela,31316,2,55,0,Silvestre Varela,Left Wing,£6.38m,in
+737,23,1,West Bromwich Albion,0,jason-davidson,137669,9,692,0,Jason Davidson,Left-Back,£340k,in
+738,21,0,West Bromwich Albion,0,liam-oneil,141349,6,519,0,Liam O'Neil,Defensive Midfield,-,in
+739,17,0,West Bromwich Albion,0,reiss-greenidge,265231,1,12,0,Reiss Greenidge,Centre-Back,-,in
+740,28,1,West Bromwich Albion,4,graham-dorrans,36608,11,990,248,Graham Dorrans,Central Midfield,£1.70m,in
+741,21,0,West Bromwich Albion,0,donervon-daniels,199522,1,13,0,Donervon Daniels,Centre-Back,£85k,in
+742,22,1,West Bromwich Albion,0,scott-allan,60904,8,384,0,Scott Allan,Central Midfield,£425k,in
+743,21,1,West Bromwich Albion,0,george-thorne,128910,8,384,0,George Thorne,Defensive Midfield,£850k,out
+744,35,0,West Bromwich Albion,1,zoltan-gera,18324,13,1.125,1.125,Zoltán Gera,Central Midfield,£850k,out
+745,27,0,West Bromwich Albion,0,billy-jones,36866,4,234,0,Billy Jones,Right-Back,£2.13m,out
+746,33,12,West Bromwich Albion,8,steven-reid,7330,192,13.561,1.695,Steven Reid,Right-Back,£850k,out
+747,22,1,West Bromwich Albion,0,scott-allan,60904,8,384,0,Scott Allan,Central Midfield,£425k,out
+748,18,0,West Bromwich Albion,0,reiss-greenidge,265231,1,12,0,Reiss Greenidge,Centre-Back,-,out
+749,29,0,West Bromwich Albion,1,liam-ridgewell,4070,22,1.980,1.980,Liam Ridgewell,Left-Back,£2.55m,out
+750,21,2,West Bromwich Albion,1,cameron-gayle,141341,32,2.481,2.481,Cameron Gayle,Right-Back,-,out
+751,20,0,West Bromwich Albion,0,donervon-daniels,199522,1,13,0,Donervon Daniels,Centre-Back,-,out
+752,22,0,West Bromwich Albion,0,andre-wisdom,128912,3,210,0,Andre Wisdom,Right-Back,£5.10m,out
+753,-,0,West Bromwich Albion,0,reece-hayes,284752,5,218,0,Reece Hayes,Attacking Midfield,-,out
+754,33,0,West Bromwich Albion,2,diego-lugano,13829,12,1.080,540,Diego Lugano,Centre-Back,£850k,out
+755,29,0,West Bromwich Albion,0,goran-popov,19721,1,90,0,Goran Popov,Left-Back,£1.28m,out
+756,22,0,West Bromwich Albion,1,thievy-bifouma,181477,10,478,478,Thievy Bifouma,Centre-Forward,£2.55m,out
+757,29,0,West Bromwich Albion,0,morgan-amalfitano,39883,10,567,0,Morgan Amalfitano,Right Wing,£4.25m,out
+758,22,0,West Bromwich Albion,2,matej-vydra,101500,11,775,388,Matej Vydra,Centre-Forward,£4.25m,out
+759,24,0,West Ham United,0,enner-valencia,139503,6,246,0,Enner Valencia,Centre-Forward,£1.36m,in
+760,24,0,West Ham United,0,cheikhou-kouyate,66934,11,990,0,Cheikhou Kouyaté,Defensive Midfield,£5.95m,in
+761,24,0,West Ham United,0,diafra-sakho,120610,11,990,0,Diafra Sakho,Centre-Forward,£2.55m,in
+762,24,1,West Ham United,0,aaron-cresswell,92571,3,258,0,Aaron Cresswell,Left-Back,£1.28m,in
+763,29,0,West Ham United,0,morgan-amalfitano,39883,10,567,0,Morgan Amalfitano,Right Wing,£4.04m,in
+764,26,3,West Ham United,0,alex-song,27394,9,637,0,Alex Song,Defensive Midfield,£11.90m,in
+765,27,0,West Ham United,0,mauro-zarate,26456,3,55,0,Mauro Zárate,Secondary Striker,£3.40m,in
+766,19,0,West Ham United,0,diego-poyet,183286,46,3.823,0,Diego Poyet,Central Midfield,£425k,in
+767,22,0,West Ham United,0,carl-jenkinson,126321,1,90,0,Carl Jenkinson,Right-Back,£5.10m,in
+769,21,0,West Ham United,0,doneil-henry,157907,4,132,0,Doneil Henry,Centre-Back,£425k,in
+770,21,0,West Ham United,18,sean-maguire,191320,30,2.468,137,Sean Maguire,Centre-Forward,-,in
+771,20,0,West Ham United,18,sean-maguire,191320,30,2.468,137,Sean Maguire,Centre-Forward,-,in
+772,21,2,West Ham United,2,paul-mccallum,214776,11,680,340,Paul McCallum,Centre-Forward,£43k,in
+773,19,0,West Ham United,0,elliot-lee,229826,3,22,0,Elliot Lee,Centre-Forward,-,in
+774,28,0,West Ham United,0,mauro-zarate,26456,3,55,0,Mauro Zárate,Secondary Striker,£2.98m,in
+775,20,0,West Ham United,0,elliot-lee,229826,3,22,0,Elliot Lee,Centre-Forward,-,in
